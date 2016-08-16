@@ -1,3 +1,3 @@
-##Puzzle description
+#####Puzzle description
 
-Find the rare characters
+Find rare characters in the mess below.
