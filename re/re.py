@@ -1,0 +1,1 @@
+#use regex to find a letter with three capital letters on each side
